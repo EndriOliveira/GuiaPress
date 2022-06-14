@@ -1,0 +1,20 @@
+{
+	"Router.get": {
+		"scope": "javascript",
+		"prefix": "rgfunc",
+		"body": [
+			"router.get('/', (req, res) =>{",
+			"});"
+		],
+		"description": "Router.get"
+	},
+	"Router.post": {
+		"scope": "javascript",
+		"prefix": "rpfunc",
+		"body": [
+			"router.post('/', (req, res) =>{",
+			"});"
+		],
+		"description": "Router.get"
+	}
+}
